@@ -10,7 +10,7 @@
 
 **CoreSimulator** `~/Library/Developer/CoreSimulator`
 
-**iOS DeviceSupport** `~/Library/Developer/Xcode/iOS\ Device`
+**iOS DeviceSupport** `~/Library/Developer/Xcode/iOS\ DeviceSupport/`
 
 
 
