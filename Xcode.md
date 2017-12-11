@@ -1,6 +1,6 @@
-#Xcode
+# Xcode
 
-##常用路径
+## 常用路径
 
 **DerivedData** `~/Library/Developer/Xcode/DerivedData/`
 
@@ -14,7 +14,7 @@
 
 
 
-##快捷键
+## 快捷键
 **定位文件** 	`cmd` + `Shift` + `j`
 
 **新建工程**	`cmd` + `Shift` + `n`		
