@@ -15,6 +15,4 @@ npm install coin-hive --unsafe-perm=true --allow-root
 
 ```
 ### 参考
-1.[https://github.com/cazala/coin-hive/issues/22](https://github.com/cazala/coin-hive/issues/22)
-
-2.
+1. [https://github.com/cazala/coin-hive/issues/22](https://github.com/cazala/coin-hive/issues/22)
